@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @jdr4343
-- 👀 Notion:https://www.notion.so/9efbaec014d84700a6e17733ad829447?v=cb2389fba533469086f9798c5b23a75f
-- 🌱 I’m currently learning ios Apprication
-- 나만 이리 버그가 많은건가.. 뭔 코코아 팟 넣을때 마다 오류냐 ㅜㅜ
-
-<!---
-jdr4343/jdr4343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 안녕하세요 신지훈입니다.
+- 현재 swift, phthon, dart 를 공부 중입니다.
+- 출시 앱
+![KakaoTalk_Photo_2021-11-22-18-41-04](https://user-images.githubusercontent.com/85167689/147474163-a707388d-8789-434e-9149-90e248d40f93.png)
